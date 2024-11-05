@@ -1,0 +1,52 @@
+  .background{
+      width: 500px;
+      margin-left:700px;
+      margin-top:250px;
+      padding-bottom:50px;
+      background-color: #F0FFFF;
+      border-radius: 10px;
+    }
+
+ .backgroundinter{
+      width: 300px;
+      float:right;
+      margin-top:-600px;
+      margin-right:100px;
+      background-color: #C8F6F9;
+      border-radius: 10px;
+    }
+
+
+.divcon{
+padding-top:70px;
+
+}
+.titleattribute{
+font-size:26px;
+
+}
+
+  .homebuttons{
+
+  margin-top:100px;
+  width:400px;
+
+  }
+
+  .costdriver{
+
+
+
+  }
+
+  .subcostdriver{
+
+    padding-right: 1100px !important;
+
+  }
+
+.radios{
+
+padding-right: 800px !important;
+
+}
